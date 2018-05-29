@@ -1,0 +1,4 @@
+example_id                           | status | run_time        |
+------------------------------------ | ------ | --------------- |
+./spec/features/blogger_spec.rb[1:1] | failed | 0.00547 seconds |
+./spec/models/category_spec.rb[1:1]  | passed | 0.0207 seconds  |
